@@ -9,7 +9,6 @@ This repository contains a Convolutional Neural Network (CNN) built with Keras f
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🚀 Project Overview
 
